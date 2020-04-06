@@ -1,0 +1,12 @@
+"@context": [
+  "https://www.w3.org/2019/wot/td/v1",
+  {
+    "landrs": "https://schema.landrs.org/schema/"
+  },
+  "https://schema.org/"
+]
+"@type": ["Thing", "landrs:Vehicle", "landrs:UAV"],
+"name": "Janes Great Drone",
+"interaction": [{
+  "@type": ["Property", ]
+}]
